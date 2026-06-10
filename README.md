@@ -115,6 +115,7 @@ cp -r godmode/skills/ path/to/your/project/skills/
 * [godmode-core](skills/godmode-core/SKILL.md) — Main bootstrap skill. Establishes routing and enforces skill usage.
 * [godmode](skills/godmode/SKILL.md) — 100% autonomous, zero-interaction single-prompt task runner.
 * [agent-collaboration](skills/agent-collaboration/SKILL.md) — Multi-agent roles, structured JSON communication, and verification loops.
+* [understand](skills/understand/SKILL.md) — Codebase orientation, knowledge graph generation, and incremental updates.
 
 ### 🔬 Process & Testing
 
